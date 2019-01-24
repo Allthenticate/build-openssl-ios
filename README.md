@@ -14,7 +14,7 @@ Usage
 =================
 Copy the following lines to your Terminal.app
 ```
-curl -O http://www.openssl.org/source/openssl-1.1.1.tar.gz
+curl -O https://www.openssl.org/source/openssl-1.1.1.tar.gz
 tar xf openssl-1.1.1.tar.gz
 cd openssl-1.1.1
 curl https://raw.githubusercontent.com/sinofool/build-openssl-ios/master/build_openssl_dist.sh |bash
